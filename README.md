@@ -1,7 +1,8 @@
-## Chronicled Wish Gacha System for Grasscutter
-This project contains a Gacha system implementation for the Grasscutter emulator. The system includes proto definitions, Java classes, and configuration files necessary for the Gacha functionality.
+## Chronicled Wish Banner for Grasscutter
+Chronicled Wish Gacha system implementation for the Grasscutter emulator. The system includes proto definitions, Java classes, and configuration files necessary for the Gacha functionality.
 
 ## Directory Structure
+<pre>
 root directory
 ├── data
 │   └── Banners.json
@@ -17,6 +18,7 @@ root directory
                             ├── GachaBanner.java
                             ├── GachaSystem.java
                             └── PlayerGachaInfo.java
+</pre>
 							
 
 ## Files and Purpose
